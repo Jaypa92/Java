@@ -1,0 +1,13 @@
+.index{
+	background-color:lightblue;
+}
+
+.index-head{
+	color:darkgreen;
+}
+.red{
+	width : 300px;
+	display:flex;
+	justify-content:space-between;
+	margin-bottom:20px;
+}
