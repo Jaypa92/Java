@@ -1,0 +1,23 @@
+.flex-forms{
+	display:flex;
+	justify-content:space-around;
+	margin-top:100px;
+}
+
+.flex-total{
+	display:flex;
+	gap:10px;
+}
+form{
+	border:1px solid black;
+	text-align:center;
+	padding:20px;
+	width:200px;
+}
+
+.scroll-box{
+	height:100px;
+	width:100%;
+	border:1px solid black;
+	overflow:auto;
+}
